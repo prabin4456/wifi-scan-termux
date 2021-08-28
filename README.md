@@ -4,5 +4,7 @@ $ git clone https://github.com/prabin4456/wifi-scan-termux.git
 
 $ ls
 
+$ cd wifi-scan-termux
+
 $ sh wifiscan.sh
 
