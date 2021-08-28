@@ -8,3 +8,5 @@ $ cd wifi-scan-termux
 
 $ sh wifiscan.sh
 
+enter : 3
+
