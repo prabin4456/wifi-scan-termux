@@ -7,6 +7,7 @@ $ ls
 $ cd wifi-scan-termux
 
 $ sh wifiscan.sh
+
 $ bash wifiscan.sh
 
 enter : 3
