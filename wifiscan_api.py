@@ -9,7 +9,7 @@ p='\033[1;35m'
 
 os.system("termux-brightness 50")
 os.system("termux-volume music 100")
-os.system("termux-tts-speak -p 1 -r 0.6 welcome select the option")
+os.system("termux-tts-speak -p 1 -r 0.6 welcome sir. choose any option")
 print("")
 print(f"                {r}PRABIN")
 print(f"                                        {b}WIFI")
